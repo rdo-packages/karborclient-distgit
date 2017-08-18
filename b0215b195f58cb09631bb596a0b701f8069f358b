@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_2722d3b9",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-08-18T16:40:00Z",
+      "side": 1,
+      "message": "While not mandatory, could you add a %check section to run unit tests? That will help us capture missing requirements in the future.",
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_c73bcfe9",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-08-18T16:40:00Z",
+      "side": 1,
+      "message": "this is duplicated",
+      "range": {
+        "startLine": 147,
+        "startChar": 0,
+        "endLine": 147,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_0725d7c1",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-08-18T16:40:00Z",
+      "side": 1,
+      "message": "Having the same client name (karbor) in the python2 and python3 subpackages will create a conflict if both are installed at the same time. To fix this, please have a look at this example spec: https://github.com/openstack-packages/openstack-example-spec/blob/master/python-exampleclient.spec#L121-L130",
+      "range": {
+        "startLine": 153,
+        "startChar": 0,
+        "endLine": 153,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_e740cb58",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-08-18T16:40:00Z",
+      "side": 1,
+      "message": "also duplicated",
+      "range": {
+        "startLine": 156,
+        "startChar": 0,
+        "endLine": 156,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
