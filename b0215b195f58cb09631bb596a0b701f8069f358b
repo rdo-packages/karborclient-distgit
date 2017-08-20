@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a890539_9a3cbe95",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-20T03:04:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_2722d3b9",
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a890539_c73bcfe9",
         "filename": "python-karborclient.spec",
         "patchSetId": 1
@@ -30,6 +48,30 @@
       "writtenOn": "2017-08-18T16:40:00Z",
       "side": 1,
       "message": "this is duplicated",
+      "range": {
+        "startLine": 147,
+        "startChar": 0,
+        "endLine": 147,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_ba417a0d",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-20T03:04:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_c73bcfe9",
       "range": {
         "startLine": 147,
         "startChar": 0,
@@ -65,6 +107,30 @@
     },
     {
       "key": {
+        "uuid": "5a890539_da464623",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-20T03:04:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_0725d7c1",
+      "range": {
+        "startLine": 153,
+        "startChar": 0,
+        "endLine": 153,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a890539_e740cb58",
         "filename": "python-karborclient.spec",
         "patchSetId": 1
@@ -76,6 +142,30 @@
       "writtenOn": "2017-08-18T16:40:00Z",
       "side": 1,
       "message": "also duplicated",
+      "range": {
+        "startLine": 156,
+        "startChar": 0,
+        "endLine": 156,
+        "endChar": 17
+      },
+      "revId": "b0215b195f58cb09631bb596a0b701f8069f358b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_fa4a2226",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-20T03:04:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_e740cb58",
       "range": {
         "startLine": 156,
         "startChar": 0,
