@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_1affee35",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-08-21T10:57:51Z",
+      "side": 1,
+      "message": "We need to switch orders here, first %py3_install then the mv/ln commands.",
+      "revId": "92da3c0a1950ace438433ae29709e5619b530c82",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
