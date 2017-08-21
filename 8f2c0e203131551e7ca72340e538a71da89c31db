@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a890539_9d52f811",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-21T12:53:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_da400659",
+      "revId": "8f2c0e203131551e7ca72340e538a71da89c31db",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a890539_1a228eb9",
         "filename": "python-karborclient.spec",
         "patchSetId": 3
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "5a890539_bd57b401",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-21T12:53:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_1a228eb9",
+      "revId": "8f2c0e203131551e7ca72340e538a71da89c31db",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a890539_fa24e2c7",
         "filename": "python-karborclient.spec",
         "patchSetId": 3
@@ -47,6 +83,30 @@
       "writtenOn": "2017-08-21T12:22:10Z",
       "side": 1,
       "message": "I think this is not needed for karborclient.",
+      "range": {
+        "startLine": 169,
+        "startChar": 0,
+        "endLine": 169,
+        "endChar": 63
+      },
+      "revId": "8f2c0e203131551e7ca72340e538a71da89c31db",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_dd5c8028",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-21T12:53:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_fa24e2c7",
       "range": {
         "startLine": 169,
         "startChar": 0,
