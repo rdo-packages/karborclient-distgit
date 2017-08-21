@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a890539_fd95bc88",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-21T13:31:08Z",
+      "side": 1,
+      "message": "Right!",
+      "parentUuid": "5a890539_3d62e4d8",
+      "revId": "3959fc17b86a6986dcb6cd04f108f0aef5c7921a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a890539_5d5fb00e",
         "filename": "python-karborclient.spec",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2017-08-21T13:08:31Z",
       "side": 1,
       "message": "Please recheck naming guidelines for tests packages.",
+      "revId": "3959fc17b86a6986dcb6cd04f108f0aef5c7921a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a890539_1d9368a4",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-08-21T13:31:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a890539_5d5fb00e",
       "revId": "3959fc17b86a6986dcb6cd04f108f0aef5c7921a",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
