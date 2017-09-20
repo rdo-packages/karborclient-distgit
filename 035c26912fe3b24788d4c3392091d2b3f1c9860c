@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_47ffed01",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 8
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-20T14:44:19Z",
+      "side": 1,
+      "message": "this description is different to the rest.\n\nCould you update using the a common_desc macro please? You then leave the second line (e.g. This package contains the karbor client test files.) which is specific to the package.\n\nFor more info see:\n\nhttps://github.com/redhat-openstack/easyfix/issues/4\n\nI would do this with all three of your packages.",
+      "revId": "035c26912fe3b24788d4c3392091d2b3f1c9860c",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
