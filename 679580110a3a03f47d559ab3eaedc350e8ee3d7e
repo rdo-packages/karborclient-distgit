@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_074ec5c1",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 11
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T10:04:00Z",
+      "side": 1,
+      "message": "can you replace this with the cleanup macro please?\n\nhttps://github.com/redhat-openstack/easyfix/issues/5",
+      "revId": "679580110a3a03f47d559ab3eaedc350e8ee3d7e",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_e750d960",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 11
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 424
+      },
+      "writtenOn": "2017-09-21T10:04:00Z",
+      "side": 1,
+      "message": "I think we need the macro here as well",
+      "revId": "679580110a3a03f47d559ab3eaedc350e8ee3d7e",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
