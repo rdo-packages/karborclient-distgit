@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a961159_6794e937",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 10
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-21T01:19:48Z",
+      "side": 1,
+      "message": "Hmm, not sure of that. I could add it if necessary.",
+      "parentUuid": "3a961159_2752e1dd",
+      "revId": "2ad4cb4d29957ed3b341620c2b6caa8ddbba774b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a961159_676309b2",
         "filename": "python-karborclient.spec",
         "patchSetId": 10
@@ -30,6 +48,30 @@
       "writtenOn": "2017-09-20T16:49:35Z",
       "side": 1,
       "message": "Let\u0027s be consistent with the python2 subpackage and use %{_bindir}/%{executable}...",
+      "range": {
+        "startLine": 187,
+        "startChar": 0,
+        "endLine": 187,
+        "endChar": 79
+      },
+      "revId": "2ad4cb4d29957ed3b341620c2b6caa8ddbba774b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_8799d570",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 10
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-21T01:19:48Z",
+      "side": 1,
+      "message": "good catch.",
+      "parentUuid": "3a961159_676309b2",
       "range": {
         "startLine": 187,
         "startChar": 0,
