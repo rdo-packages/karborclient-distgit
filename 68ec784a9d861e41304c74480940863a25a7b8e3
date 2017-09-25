@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a930d6b_ae36b7e5",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 12
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-09-25T09:00:31Z",
+      "side": 1,
+      "message": "I think Chris misled you here. The py_req_cleanup macro is removing *requirements.txt, but this is a different thing. Can you revert to what we had in PS11?",
+      "revId": "68ec784a9d861e41304c74480940863a25a7b8e3",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a930d6b_ce3303f5",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 12
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-09-25T09:00:31Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "68ec784a9d861e41304c74480940863a25a7b8e3",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
