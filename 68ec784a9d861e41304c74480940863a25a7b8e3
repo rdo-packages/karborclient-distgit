@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1a930d6b_aeab17d5",
+        "filename": "python-karborclient.spec",
+        "patchSetId": 12
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2017-09-25T09:37:30Z",
+      "side": 1,
+      "message": "Thanks for pointing this out. I once doubted this, but not sure.",
+      "parentUuid": "1a930d6b_ae36b7e5",
+      "revId": "68ec784a9d861e41304c74480940863a25a7b8e3",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a930d6b_ce3303f5",
         "filename": "python-karborclient.spec",
         "patchSetId": 12
