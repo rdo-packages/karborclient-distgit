@@ -6,4 +6,4 @@ global:Anonymous-Users	Anonymous Users
 fbb5c0a0d2ba4f326a85e373abd7fe637269f245	openstack/karborclient-core
 401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
 a229ab119c34d91a57b58ee3af66d5d0401f476c	openstack/karborclient-ptl
-6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Non-Interactive Users
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Service Users
